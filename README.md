@@ -1,4 +1,4 @@
-##Resumo do projeto
+# Resumo do projeto
 
 O projeto implementa numa matriz de leds valores de 0 a 9 que são incrementados ou decrementados a partir dos botões A e B respectivamente, 
 tudo isso utilizando de interrupções, pull-up e debounce para garantir a leitura correta dos cliques dos botões, juntamente com um led vermelho individual que pisca 5 vezes por segundo.
