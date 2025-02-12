@@ -49,4 +49,4 @@ Botão `B`: decrementa o valor da matriz de leds;
 
 ## Vídeo Ensaio mostrando execução na placa ***BitDogLab***:
 
-Clique em ***[link do video](https://youtu.be/J4212Rxb-3Y?si=uVdvNZVevcSTIYHD)*** para visualizar o vídeo ensaio do projeto.
+Clique em ***[link do video](https://youtu.be/l9MTWGbMeLg)*** para visualizar o vídeo ensaio do projeto.
